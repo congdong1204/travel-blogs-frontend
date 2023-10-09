@@ -1,8 +1,9 @@
+import HomePage from './pages/HomePage'
 
 function App() {
-  return (
-    <p>this is blog app</p>
-  );
+  
+
+  return <HomePage />
 }
 
-export default App;
+export default App
